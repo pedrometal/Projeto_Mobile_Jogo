@@ -1,3 +1,20 @@
-# 📱 Projeto App de Jogos
+# 🎮 Projeto App Jogos
 
-Aplicativo desenvolvido com React Native e Expo Router para ajudar os usuários a organizar seus jogos preferidos. Permite cadastrar, visualizar, editar e excluir jogos, além de explorar sugestões por gênero e plataforma.
+Aplicativo mobile para gerenciamento de jogos favoritos, desenvolvido em React Native com Expo Router. Permite adicionar, editar, listar e visualizar detalhes de jogos, com foco em uma interface retrô e amigável ao usuário.
+
+## ✨ Funcionalidades
+
+-  Cadastro de jogos (nome, gênero, plataforma, nota)
+-  Listagem e busca de jogos
+-  Visual retrô com design customizado
+-  Armazenamento remoto via Back4App (Parse)
+-  Sugestões de jogos usando API externa (RAWG)
+
+## 📱 Tecnologias Utilizadas
+
+- *React Native* + *Expo*
+- *TypeScript*
+- *Expo Router* para navegação
+- *Tailwind CSS* com NativeWind
+- *Back4App* (Parse Server) como backend
+- *RAWG API* para dados externos
